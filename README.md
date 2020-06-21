@@ -2,7 +2,7 @@
 
 ## Eye
 
-* [Link](https://dataverse.scholarsportal.info/dataverse/OCTID) [(Mirror)](https://www.openicpsr.org/openicpsr/project/108503/version/V1/view) **Gholami et al. Ann Arbour, MI, USA :** OCT images of Normals, Diabetic Retinopathy (DR), Central Serous Retinopathy (CSR), Macular Holes, Age Related Macula Degeneration (AMD). Includes some images and masks for segmentation of retinal layers. *Open Access* **[OCT]**
+* **Gholami et al. Ann Arbour, MI, USA :** [Link](https://dataverse.scholarsportal.info/dataverse/OCTID) [(Mirror)](https://www.openicpsr.org/openicpsr/project/108503/version/V1/view)  OCT images of Normals, Diabetic Retinopathy (DR), Central Serous Retinopathy (CSR), Macular Holes, Age Related Macula Degeneration (AMD). Includes some images and masks for segmentation of retinal layers. *Open Access* **[OCT]**
 
 * [Link](https://www.kaggle.com/paultimothymooney/kermany2018) [(Mirror)](https://data.mendeley.com/datasets/rscbjbr9sj/3) **Kermany et al. University of Californa, CA, USA :** OCT images of Normals, Drusens, Diabetic Macular Edema (DME), Choroidal Neovascularisation (CNV). Large amount of training data. *Open Access* **[OCT]**
 
