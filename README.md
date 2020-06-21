@@ -1,4 +1,4 @@
-# Imaging Datasets and Sources
+# Datasets and Sources
 
 ## Eye
 
