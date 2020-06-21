@@ -6,6 +6,6 @@
 
 ## Brain
 
-[**Link**](https://mrbrains13.isi.uu.nl/) **University Medical Center, Utrecht:** MR Images and masks for segmentation of brain tissue. *Registration Required* **[T1w MRI]**
+[**Link**](https://mrbrains13.isi.uu.nl/) **Mendrik et al. University Medical Center, Utrecht:** MR Images and masks for segmentation of brain tissue. *Registration Required* **[T1w MRI]**
 
 ## Chest
