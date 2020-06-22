@@ -12,6 +12,8 @@
 
 * **MR Brains, Mendrik et al. University Medical Center, Utrecht, Netherlands:** [Link](https://mrbrains13.isi.uu.nl/) - MR Images and masks for segmentation of brain tissue. *Registration & Agreement Required* **[T1w]**
 
+* **Andrzejak et al. University of Bonn, Germany** [Link](http://epileptologie-bonn.de/cms/upload/workgroup/lehnertz/eegdata.html) *Open Access* **[EEG]**
+
 ## Chest
 
 * **Kermany et al. University of Californa, CA, USA:** [Link](https://data.mendeley.com/datasets/rscbjbr9sj/3) - Chest Xray images of **Infant** Normals, Bacterial Pneumonia, Viral Pneumonia. Large amount of training data. *Open Access* **[Xray]**
