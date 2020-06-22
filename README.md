@@ -8,7 +8,7 @@
 
 ## Brain
 
-* **OASIS Brains, Marcus et al. Washington University, MO, USA:** [Link](https://www.oasis-brains.org/) - MR Images of Normals, Mild Cognitive Impairment (MCI), Alzheimer's Dementia (AD) across three study groups. Both longditudinal and single-session study data that includes a range of clinical results including MMSE and CDR scores. *Registraction & Agreement Required* **[T1, T1w, T2, PET, CT]**
+* **OASIS Brains, Marcus et al. Washington University, MO, USA:** [Link](https://www.oasis-brains.org/) - MR Images of Normals, Mild Cognitive Impairment (MCI), Alzheimer's Dementia (AD) across three study groups. Both longditudinal and single-session study data that includes a range of clinical results including MMSE and CDR scores. *Registration & Agreement Required* **[T1, T1w, T2, PET, CT]**
 
 * **MR Brains, Mendrik et al. University Medical Center, Utrecht, Netherlands:** [Link](https://mrbrains13.isi.uu.nl/) - MR Images and masks for segmentation of brain tissue. *Registration & Agreement Required* **[T1w]**
 
