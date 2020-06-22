@@ -12,7 +12,7 @@
 
 * **MR Brains, Mendrik et al. University Medical Center, Utrecht, Netherlands:** [Link](https://mrbrains13.isi.uu.nl/) - MR Images and masks for segmentation of brain tissue. *Registration & Agreement Required* **[T1w]**
 
-* **EEG Sytematic Reivew, Roy et al. University of Montreal, Canada:** [Link](https://docs.google.com/spreadsheets/d/1smpU0WSlSq-Al2u_QH3djGn68mTuHlth2fNJTrD3wa8/edit#gid=0) [(paper)](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c) Table from a systematic reivew containing information on many EEG datasets as well as thier results, methodology, and code (whena available). A machine learning reproducibility checklist is also available through the paper. *Open Access* **[EEG]**
+* **EEG Systematic Reivew, Roy et al. University of Montreal, Canada:** [Link](https://docs.google.com/spreadsheets/d/1smpU0WSlSq-Al2u_QH3djGn68mTuHlth2fNJTrD3wa8/edit#gid=0) [(paper)](https://iopscience.iop.org/article/10.1088/1741-2552/ab260c) Table from a systematic reivew containing information on many EEG datasets as well as thier results, methodology, and code (whena available). A machine learning reproducibility checklist is also available through the paper. *Open Access* **[EEG]**
 
 * **Andrzejak et al. University of Bonn, Germany:** [Link](http://epileptologie-bonn.de/cms/upload/workgroup/lehnertz/eegdata.html) *Open Access* **[EEG]**
 
