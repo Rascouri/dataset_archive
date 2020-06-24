@@ -24,12 +24,12 @@
 
 * **Kermany et al. University of Californa, CA, USA:** [Link](https://data.mendeley.com/datasets/rscbjbr9sj/3) - Chest Xray images of **Infant** Normals, Bacterial Pneumonia, Viral Pneumonia. Large amount of training data. *Open Access* **[Xray]**
 
-## Other
-
-* **LIFE** [Link](https://data.europa.eu/euodp/en/data/dataset/life)
-
 * **Cohen et al. University of Montreal, Canada:** [Link](https://github.com/ieee8023/covid-chestxray-dataset) - Chest Xray images of subjects with COVID & SARS related pneumonia. Small, hetrogenous dataset from a wide range of sources. *Open Access* **[Xray]**
 
 ## Non-Medical
 
 * **CamVid** [Link](http://mi.eng.cam.ac.uk/research/projects/VideoRec/CamVid/) - Segmented & labelled dashcam frames. *Open Access* **[Colour Images]**
+
+## Other
+
+* **LIFE** [Link](https://data.europa.eu/euodp/en/data/dataset/life)
